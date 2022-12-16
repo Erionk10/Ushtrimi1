@@ -1,3 +1,3 @@
-# Ushtrimi i dyte
+# Ushtrimi i pare
 
-Ky eshte ushtrimi i dyte me HTML5.
+Ky eshte ushtrimi i pare me HTML5.
